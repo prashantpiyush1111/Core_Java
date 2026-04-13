@@ -10,7 +10,7 @@ public class Enhanchedforloop {
 	{
 		Student s1=new Student();
 		s1.rollno=1;
-		s1.name="Navin";
+		s1.name="Raj";
 		s1.marks=88;
 		
 		Student s2=new Student();
